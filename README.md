@@ -1,1 +1,1 @@
-# odin-landing-page
+Exercise for the Odin Project basics course
